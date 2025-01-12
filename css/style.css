@@ -3882,3 +3882,7 @@ width: 100%;
   width: 100px;
   height: 100px;
 }
+.highlight-tech {
+  font-weight: bold;
+  color: #6c757d; /* Example: change text color to red */
+}
